@@ -1,0 +1,9 @@
+Senoidal
+0
+23
+-1
+
+Senoidal
+23
+-13
+8
